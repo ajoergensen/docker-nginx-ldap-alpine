@@ -1,4 +1,6 @@
-#  **[nginx][3]** built with **OpenSSL 1.1.1** (TLSv1.3 support)
+#  **[nginx][3]** built with **OpenSSL 1.1.1** (TLSv1.3 support) and LDAP support
+
+WIP - Still need templating of LDAP configuration
 
 ## Features
 
